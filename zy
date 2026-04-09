@@ -1,6 +1,7 @@
 import java.util.Random;
 
 public class RandomDemo {
+//生成随机数代码
     public static void main(String[] args) {
         // 创建随机数对象
         Random random = new Random();
